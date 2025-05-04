@@ -1,10 +1,10 @@
 screen_width=1200
 screen_height=800
 fps=60
-camera_screen_width=300
-camera_screen_height=200
-camera_distance=100
-camera_speed=5
-camera_angle_speed=0.1
+camera_screen_width=30
+camera_screen_height=20
+camera_distance=50
+camera_speed=1
+camera_angle_speed=1
 camera_angle=0
 camera_pos=(0, 0)
